@@ -1,0 +1,30 @@
+/**
+*
+* align.css
+* @author - Innam
+* @date - 25/05/2023
+**/
+
+.t-center {
+    text-align: center;
+}
+
+.t-right {
+    text-align: right;
+}
+
+.h-center {
+    display: flex;
+    justify-content: center;
+}
+
+.v-center {
+    display: flex;
+    align-items: center;
+}
+
+.vh-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

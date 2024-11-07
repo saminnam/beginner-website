@@ -1,0 +1,15 @@
+/**
+*
+* index.css
+* @author - Innam
+* @date - 25/05/2023
+**/
+
+@import "base.css";
+@import "style.css";
+@import "form.css";
+@import "list.css";
+@import "layout.css";
+@import "align.css";
+@import "spacing.css";
+@import "grid.css";

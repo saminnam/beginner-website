@@ -1,0 +1,43 @@
+/**
+*
+* list.css
+* @author - Innam
+* @date - 25/05/2023
+**/
+
+.header-menu-list {
+    padding: 0;
+    margin-left: 36px;
+    font-size: 14px;
+}
+
+.header-menu-list li {
+    display: inline;
+    list-style-type: none;
+    padding: 0 15px;
+    cursor: pointer;
+
+}
+
+.header-menu-list li:hover
+{
+    font-weight: bold;
+}
+
+.header-menu-list li i {
+    font-size: 20px;
+    padding-right: 2px;
+}
+
+.footer-list {
+    padding: 0;
+    margin: 0;
+}
+
+.footer-list li {
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0 10px;
+    cursor: pointer;
+}
